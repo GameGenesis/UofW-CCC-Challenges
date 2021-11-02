@@ -2,8 +2,6 @@
 
 villages = []
 
-max_size = 1000000000
-
 def clamp(n, min_n, max_n):
   return max(min(n, max_n), min_n)
 
@@ -14,7 +12,8 @@ for n in range(number_of_villages):
   villages.append(int(input()))
 
 villages.sort()
-smallest_size = max_size
+
+smallest_size = 1000000000
 
 for n in range(number_of_villages):
   if n > 0 and n < number_of_villages - 1:
