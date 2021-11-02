@@ -15,11 +15,10 @@ villages.sort()
 
 smallest_size = 1000000000
 
-for n in range(number_of_villages):
-  if n > 0 and n < number_of_villages - 1:
-    size_left = villages[n] - villages[n-1]
-    size_right = villages[n+1] - villages[n]
-    size = (size_left + size_right) / 2
-    smallest_size = min(size, smallest_size)
+for n in range(1, number_of_villages - 1):
+  size_left = villages[n] - villages[n-1]
+  size_right = villages[n+1] - villages[n]
+  size = (size_left + size_right) / 2
+  smallest_size = min(size, smallest_size)
 
 print(smallest_size)
