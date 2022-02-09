@@ -20,6 +20,7 @@ University of Waterloo - Canadian Computing Competition (Past Challenges)
 - [USACO Guide](https://usaco.guide/)
 - [AtCoder](https://atcoder.jp/)
 - [CCC Advice](https://marcuschong.me/2021/06/19/ccc.html)
+- [USACO Resources](https://github.com/bqi343/USACO/tree/master/Resources)
 
 ### Other Programming Resources
 - [DMOJ](https://dmoj.ca/)
