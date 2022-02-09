@@ -19,6 +19,8 @@ University of Waterloo - Canadian Computing Competition (Past Challenges)
 - [CSES](https://cses.fi/) / [Problem Set](https://cses.fi/problemset/)
 - [USACO Guide](https://usaco.guide/)
 - [AtCoder](https://atcoder.jp/)
+- [CCC Advice](https://marcuschong.me/2021/06/19/ccc.html)
+
+### Other Programming Resources
 - [DMOJ](https://dmoj.ca/)
 - [Replit](https://replit.com/~)
-- [CCC Advice](https://marcuschong.me/2021/06/19/ccc.html)
