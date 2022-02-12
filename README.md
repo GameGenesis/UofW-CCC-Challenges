@@ -25,3 +25,5 @@ University of Waterloo - Canadian Computing Competition (Past Challenges)
 ### Other Programming Resources
 - [DMOJ](https://dmoj.ca/)
 - [Replit](https://replit.com/~)
+
+![Logo](/CCC_logo.jpg)
